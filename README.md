@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mehrsw im 21, currently living in Shiraz-Iran ,a software engineer student .
+- 👋 Hi, I’m @mehrsw im 21, currently living in Shiraz-Iran ,a software engineering student .
 - 👀 I’m interested in coding , data analysis , machine learning, artificial intelligence and mathematics
-- 🌱 I’m currently learning machine learning and data analysis in mft.
 - 💞️ I’m looking to collaborate on any machine learning or data analysis project 
 - 📫 email me for contact wmehrsaw@gmail.com
 
